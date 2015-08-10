@@ -24,12 +24,14 @@
         <processorPath useClasspath="true" />
         <module name="thread01" />
         <module name="thread02" />
+        <module name="thread03" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Thread" target="1.7" />
       <module name="thread01" target="1.7" />
       <module name="thread02" target="1.7" />
+      <module name="thread03" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
