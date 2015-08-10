@@ -1,62 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57b17580-5131-4614-8eea-9c47d06a89ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\App.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\DataSourceLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\FileClock.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\FileSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\NetworkConnectionsLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread01\PrimeGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\CleanerTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\Event.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\ExceptionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\Task.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread02\WriterTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread03\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread03\SafeTask$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread03\SafeTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread03\UnsafeTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread04\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread04\Result.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread04\SearchTask.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread05\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread05\MyThreadGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread05\Task.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread06\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread06\MyThreadFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\classes\com\pera\test\thread06\Task.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread01\target\test-classes\com\pera\test\AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\App.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread03\Consumer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread03\EventStorage.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread03\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread03\Producer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread05\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread05\PriceInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread05\Reader.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\Thread05\Writer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread01\Account.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread01\Bank.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread01\Company.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread01\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread02\Cinema.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread02\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread02\TicketOffice1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread02\TicketOffice2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread04\Job.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread04\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\classes\com\pera\test\thread04\PrintQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\project\private\Thread\thread02\target\test-classes\com\pera\test\AppTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="57b17580-5131-4614-8eea-9c47d06a89ae" name="Default" comment="1-3章代码">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/test/java/com/pera/test/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Buffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/FileMock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/Job.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/Job.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/PrintQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/PrintQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Producer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Thread.iws" />
@@ -83,116 +45,7 @@
     <favorites_list name="Thread" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread03/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Result.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/Result.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/PrintQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/SearchTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="16" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Participant.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.75">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35252643">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -385,7 +238,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread02" />
+              <option name="myItemId" value="thread03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -399,11 +256,109 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread02" />
+              <option name="myItemId" value="thread03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thread02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -848,12 +803,19 @@
       <workItem from="1438234019507" duration="11518000" />
       <workItem from="1438569783357" duration="22606000" />
       <workItem from="1438918159223" duration="16172000" />
-      <workItem from="1439197835729" duration="202000" />
+      <workItem from="1439197835729" duration="391000" />
     </task>
+    <task id="LOCAL-00001" summary="1-3章代码">
+      <created>1439198091865</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1439198091865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63801000" />
+    <option name="totallyTimeSpent" value="63990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1400" height="1011" extended-state="0" />
@@ -861,6 +823,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -875,7 +838,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -895,6 +857,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-3章代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-3章代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1317,20 +1283,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.72660995">
           <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding />
         </state>
@@ -1338,7 +1293,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.75">
+        <state vertical-scroll-proportion="0.63791007">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
@@ -1348,6 +1303,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35252643">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6354799">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
           <folding />
         </state>
       </provider>
