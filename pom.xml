@@ -11,6 +11,7 @@
         <module>thread01</module>
         <module>thread02</module>
         <module>thread03</module>
+        <module>thread04</module>
     </modules>
     <packaging>pom</packaging>
 
