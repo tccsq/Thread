@@ -25,6 +25,7 @@
         <module name="thread01" />
         <module name="thread02" />
         <module name="thread03" />
+        <module name="thread04" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="thread01" target="1.7" />
       <module name="thread02" target="1.7" />
       <module name="thread03" target="1.7" />
+      <module name="thread04" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

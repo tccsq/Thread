@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57b17580-5131-4614-8eea-9c47d06a89ae" name="Default" comment="1-3章代码">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/test/java/com/pera/test/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Buffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/FileMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread01/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread02/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread06/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread03/pom.xml" />
+    <list default="true" id="57b17580-5131-4614-8eea-9c47d06a89ae" name="Default" comment="4章代码">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Thread.iws" />
@@ -29,6 +15,7 @@
     <ignored path="$PROJECT_DIR$/thread01/target/" />
     <ignored path="$PROJECT_DIR$/thread02/target/" />
     <ignored path="$PROJECT_DIR$/thread03/target/" />
+    <ignored path="$PROJECT_DIR$/thread04/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +32,106 @@
     <favorites_list name="Thread" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThreadFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/MyThreadFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactorialCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/FactorialCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7672634">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,26 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/CleanerTask.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/Task.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/Main.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/ExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread03/UnsafeTask.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread03/Main.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread03/SafeTask.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/Result.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/Main.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread04/SearchTask.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/MyThreadGroup.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/Task.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/Main.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/Task.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/Main.java" />
-        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/MyThreadFactory.java" />
-        <option value="$PROJECT_DIR$/thread02/pom.xml" />
-        <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Bank.java" />
-        <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Company.java" />
-        <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Main.java" />
         <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Account.java" />
         <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/TicketOfficel.java" />
         <option value="$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/TicketOffice2.java" />
@@ -116,6 +182,26 @@
         <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java" />
         <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/MatrixMock.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Results.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Grouper.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Searcher.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread05/Main.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread05/FileSearch.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Main.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/MyPhaser.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/Main.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/Student.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Consumer.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Main.java" />
+        <option value="$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Producer.java" />
+        <option value="$PROJECT_DIR$/thread04/pom.xml" />
+        <option value="$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Main.java" />
+        <option value="$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/MyThreadFactory.java" />
+        <option value="$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Task.java" />
+        <option value="$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Server.java" />
+        <option value="$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/FactorialCalculator.java" />
+        <option value="$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/Main.java" />
       </list>
     </option>
   </component>
@@ -224,7 +310,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
+              <option name="myItemId" value="thread04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,25 +324,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
+              <option name="myItemId" value="thread04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -274,7 +342,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
+              <option name="myItemId" value="thread04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -283,82 +351,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Thread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thread02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,12 +370,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\project\private\Thread\thread04\src\main\java\com\pera\test\thread01" />
       <recent name="D:\workspace\project\private\Thread\thread03\src\main\java\com\pera\test\thread01" />
       <recent name="D:\workspace\project\private\Thread\thread01\src\main\java\com\pera\test\thread05" />
     </key>
@@ -391,22 +384,22 @@
       <recent name="com.pera.test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.pera.test.thread03" />
-      <recent name="com.pera.test.thread02" />
-      <recent name="com.pera.test.thread01" />
+      <recent name="com.pera.test.Thread02" />
+      <recent name="com.pera.test.thread07" />
       <recent name="com.pera.test.thread06" />
-      <recent name="com.pera.test.Thread05" />
+      <recent name="com.pera.test.thread05" />
+      <recent name="com.pera.test.thread04" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
     <configuration default="false" name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.pera.test.Thread05.*" />
+          <option name="PATTERN" value="com.pera.test.thread05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pera.test.Thread05.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread05.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -415,7 +408,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thread02" />
+      <module name="thread03" />
       <envs />
       <method />
     </configuration>
@@ -435,18 +428,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thread02" />
+      <module name="thread03" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.pera.test.thread01.*" />
+          <option name="PATTERN" value="com.pera.test.thread07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread01.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread07.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -462,11 +455,11 @@
     <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.pera.test.thread02.*" />
+          <option name="PATTERN" value="com.pera.test.thread01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread02.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread01.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -475,18 +468,18 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thread03" />
+      <module name="thread04" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.pera.test.thread03.*" />
+          <option name="PATTERN" value="com.pera.test.Thread02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.pera.test.thread03.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pera.test.Thread02.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -495,7 +488,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thread03" />
+      <module name="thread04" />
       <envs />
       <method />
     </configuration>
@@ -803,7 +796,7 @@
       <workItem from="1438234019507" duration="11518000" />
       <workItem from="1438569783357" duration="22606000" />
       <workItem from="1438918159223" duration="16172000" />
-      <workItem from="1439197835729" duration="391000" />
+      <workItem from="1439197835729" duration="17533000" />
     </task>
     <task id="LOCAL-00001" summary="1-3章代码">
       <created>1439198091865</created>
@@ -811,11 +804,29 @@
       <option name="project" value="LOCAL" />
       <updated>1439198091865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1-3章代码">
+      <created>1439198245716</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1439198245716</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1-3章代码">
+      <created>1439200081603</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1439200081603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4章代码">
+      <created>1439285101654</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439285101654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63990000" />
+    <option name="totallyTimeSpent" value="81132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1400" height="1011" extended-state="0" />
@@ -823,28 +834,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44431818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13955224" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52272725" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2522388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2522388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39772728" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34545454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39817974" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -860,7 +871,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-3章代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-3章代码" />
+    <MESSAGE value="4章代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="4章代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,7 +884,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -885,229 +897,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread03/SafeTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/MyThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread05/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/MyThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread01/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="149" column="0" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/TicketOffice1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/TicketOffice2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread02/Cinema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/Thread03/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/Thread03/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/Thread03/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/Thread03/EventStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread04/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/thread04/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#79677#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#5560#5561#0" expanded="false" />
-            <element signature="e#5601#5602#0" expanded="false" />
-            <element signature="e#6683#6684#0" expanded="false" />
-            <element signature="e#6723#6724#0" expanded="false" />
-            <element signature="e#14796#14797#0" expanded="false" />
-            <element signature="e#14860#14861#0" expanded="false" />
-            <element signature="e#15480#15481#0" expanded="false" />
-            <element signature="e#15546#15547#0" expanded="false" />
-            <element signature="e#15734#15735#0" expanded="false" />
-            <element signature="e#15805#15806#0" expanded="false" />
-            <element signature="e#17015#17016#0" expanded="false" />
-            <element signature="e#17082#17083#0" expanded="false" />
-            <element signature="e#17388#17389#0" expanded="false" />
-            <element signature="e#17429#17430#0" expanded="false" />
-            <element signature="e#18347#18348#0" expanded="false" />
-            <element signature="e#18389#18390#0" expanded="false" />
-            <element signature="e#18901#18902#0" expanded="false" />
-            <element signature="e#18944#18945#0" expanded="false" />
-            <element signature="e#21244#21245#0" expanded="false" />
-            <element signature="e#21288#21289#0" expanded="false" />
-            <element signature="e#31990#31991#0" expanded="false" />
-            <element signature="e#32029#32030#0" expanded="false" />
-            <element signature="e#38413#38414#0" expanded="false" />
-            <element signature="e#38471#38472#0" expanded="false" />
-            <element signature="e#39008#39009#0" expanded="false" />
-            <element signature="e#39051#39052#0" expanded="false" />
-            <element signature="e#40325#40326#0" expanded="false" />
-            <element signature="e#40370#40371#0" expanded="false" />
-            <element signature="e#44660#44661#0" expanded="false" />
-            <element signature="e#44691#44692#0" expanded="false" />
-            <element signature="e#45492#45493#0" expanded="false" />
-            <element signature="e#45535#45536#0" expanded="false" />
-            <element signature="e#45792#45793#0" expanded="false" />
-            <element signature="e#45820#45821#0" expanded="false" />
-            <element signature="e#46678#46679#0" expanded="false" />
-            <element signature="e#46747#46748#0" expanded="false" />
-            <element signature="e#48080#48081#0" expanded="false" />
-            <element signature="e#48153#48154#0" expanded="false" />
-            <element signature="e#52615#52616#0" expanded="false" />
-            <element signature="e#52677#52678#0" expanded="false" />
-            <element signature="e#53771#53772#0" expanded="false" />
-            <element signature="e#53800#53801#0" expanded="false" />
-            <element signature="e#66072#66970#0" expanded="false" />
-            <element signature="e#66969#66970#0" expanded="false" />
-            <element signature="e#67537#67538#0" expanded="false" />
-            <element signature="e#67563#67564#0" expanded="false" />
-            <element signature="e#77386#77387#0" expanded="false" />
-            <element signature="e#77458#77459#0" expanded="false" />
-            <element signature="e#78644#78645#0" expanded="false" />
-            <element signature="e#78679#78680#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thread02/src/main/java/com/pera/test/Thread05/PriceInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1140,6 +929,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,6 +945,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41747573">
           <caret line="692" column="19" selection-start-line="692" selection-start-column="19" selection-end-line="692" selection-end-column="19" />
+          <folding>
+            <element signature="e#20733#20734#0" expanded="false" />
+            <element signature="e#20762#20763#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,6 +956,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1592233">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1169,6 +964,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8194175">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,6 +972,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5281553">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,6 +980,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,6 +1003,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#340#341#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1212,6 +1014,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7281553">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1219,6 +1022,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,7 +1047,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1269,8 +1073,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1283,14 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72660995">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63791007">
@@ -1299,18 +1095,256 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Results.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35252643">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#151#152#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#266#267#0" expanded="false" />
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33163264">
+          <caret line="744" column="0" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_79/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="37" selection-start-line="195" selection-start-column="18" selection-end-line="195" selection-end-column="37" />
+          <folding>
+            <element signature="e#8039#8040#0" expanded="true" />
+            <element signature="e#8086#8087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread05/FileSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="25.833334">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Conference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6354799">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread03/Participant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/MatrixMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Grouper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#182#183#0" expanded="false" />
+            <element signature="e#220#221#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Searcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread04/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37177542">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding>
+            <marker date="1439277908595" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/MyPhaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <marker date="1439277264253" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439277264253" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439277264253" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439277264253" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread06/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62367225">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread03/src/main/java/com/pera/test/thread07/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50682855">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread06/MyThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread01/src/main/java/com/pera/test/thread02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/thread01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/FactorialCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread04/src/main/java/com/pera/test/Thread02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7672634">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1367,7 +1401,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>thread03</last-edited>
+          <last-edited>thread02</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

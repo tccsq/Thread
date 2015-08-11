@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/thread01/thread01.iml" filepath="$PROJECT_DIR$/thread01/thread01.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread02/thread02.iml" filepath="$PROJECT_DIR$/thread02/thread02.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread03/thread03.iml" filepath="$PROJECT_DIR$/thread03/thread03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread04/thread04.iml" filepath="$PROJECT_DIR$/thread04/thread04.iml" />
     </modules>
   </component>
 </project>
