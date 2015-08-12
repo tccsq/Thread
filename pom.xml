@@ -15,5 +15,14 @@
     </modules>
     <packaging>pom</packaging>
 
+
     <properties/>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.github.nkzawa</groupId>
+            <artifactId>socket.io-client</artifactId>
+            <version>0.5.0</version>
+        </dependency>
+    </dependencies>
 </project>

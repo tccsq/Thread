@@ -25,7 +25,7 @@ public class FactorialCalculator implements Callable<Integer> {
             }
         }
 
-        System.out.printf("$s : %d\n",Thread.currentThread().getName(),result);
+        System.out.printf("%s : %d\n",Thread.currentThread().getName(),result);
 
         return result;
     }
