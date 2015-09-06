@@ -1,7 +1,5 @@
 package com.pera.test.thread07;
 
-import com.squareup.okhttp.Call;
-
 import java.util.concurrent.Callable;
 
 /**

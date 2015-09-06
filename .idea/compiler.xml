@@ -17,16 +17,47 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+      <profile default="false" name="Annotation profile for thread04" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="thread04" />
+      </profile>
+      <profile default="false" name="Annotation profile for thread01" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="thread01" />
-        <module name="thread02" />
-        <module name="thread03" />
-        <module name="thread04" />
+      </profile>
+      <profile default="false" name="Annotation profile for thread05" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="thread05" />
+      </profile>
+      <profile default="false" name="Annotation profile for thread02" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="thread02" />
+      </profile>
+      <profile default="false" name="Annotation profile for thread03" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="thread03" />
+      </profile>
+      <profile default="false" name="Annotation profile for thread06" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="thread06" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
@@ -36,6 +67,7 @@
       <module name="thread03" target="1.7" />
       <module name="thread04" target="1.7" />
       <module name="thread05" target="1.7" />
+      <module name="thread06" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
